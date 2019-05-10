@@ -1,4 +1,4 @@
-package com.example.a216114020myproject;
+package com.example.myproject;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

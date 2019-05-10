@@ -1,4 +1,4 @@
-package com.example.a216114020myproject;
+package com.example.myproject;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
